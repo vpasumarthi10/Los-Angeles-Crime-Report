@@ -6,7 +6,7 @@ Included Report
 📄 LA crime report. pdf
 
 
-Highlights:
+**Highlights:**
 
 Crime trends over five years (2020–2024)
 
@@ -18,7 +18,7 @@ Crime resolution rate: Only 8.33% arrests made
 
 Interactive filters: Year, Crime Description, Location Type
 
-📊 Visualizations
+## 📊 Visualizations
 Crimes Reported Over Time
 
 Top Crimes Chart
@@ -33,12 +33,12 @@ Geographic Crime Map in LA
 
 Interactive Filters for Crime Type, Location, and Year
 
-📥 Data Source
+## 📥 Data Source
 Data.gov
 City of Los Angeles
 https://data.gov/
 
-🛠 Tools Used
+## 🛠 Tools Used
 Power BI Desktop
 
 Power Query for transformation
@@ -47,12 +47,12 @@ DAX for metrics and measures
 
 Bing Maps integration for geospatial visuals
 
-👤 Author
+## 👤 Author
 Venkat Pasumarthi
 Data Analyst | Power BI Developer
 GitHub: @vpasumarthi10
 
-📌 How to Use
+## 📌 How to Use
 Open the .pdf file to view the summarized report.
 
 (Optional) Connect the .pbix file (if provided) to Power BI for full interactivity.
